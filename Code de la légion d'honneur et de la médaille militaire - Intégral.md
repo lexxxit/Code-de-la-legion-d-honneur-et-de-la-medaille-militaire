@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1981-11-11
+Version Consolidée au 1981-12-17
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -2998,5 +2998,70 @@ aucune fonction publique.
 	**Codifié par**:
 
 	  - Décret n°62-1472 1962-11-28
+
+
+## LIVRE IV : Dispositions pénales.
+
+###### Article R171
+
+Est interdite la création ou la collation par des personnes physiques ou morales privées ou par des personnes morales
+publiques autres que l'Etat de décorations ou insignes de distinctions honorifiques présentant une ressemblance soit avec des
+décorations ou insignes conférés par l'Etat français, soit avec des décorations ou insignes conférés par une puissance
+étrangère souveraine.
+
+Est également interdite la création ou l'attribution de grades ou de dignités dont la dénomination présente une ressemblance
+avec les grades et dignités conférés par l'Etat français ou par une puissance étrangère souveraine.
+
+Les infractions aux dispositions qui précèdent sont punies des peines prévues pour les contraventions de 5e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°81-1103 1981-12-04 art. 1 JORF 17 décembre 1981
+
+
+###### Article R172
+
+Sera puni d'une amende prévue pour les contraventions de 4e classe quiconque aura porté en public des insignes, rubans ou
+rosettes présentant une ressemblance avec ceux des décorations conférées par l'Etat français ou qui aura fait usage de grades
+ou dignités dont la dénomination présente une ressemblance avec les grades et dignités conférés par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°81-1103 1981-12-04 art. 1 JORF 17 décembre 1981
+
+
+###### Article R173
+
+Sera puni d'une amende prévue pour les contraventions de 2e classe tout Français qui aura porté, sans avoir obtenu
+l'autorisation prévue par l'article R. 161, une décoration conférée par une puissance souveraine étrangère.
+
+Sera punie d'une amende prévue pour les contraventions de 3e classe toute personne qui aura porté une décoration étrangère
+qui n'aurait pas été conférée par une puissance souveraine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°81-1103 1981-12-04 art. 1 JORF 17 décembre 1981
+
+	**Cite**:
+
+	  - Code de la Légion d'honneur et de la médaille mili - art. R161 (V)
 
 
