@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1970-07-08
+Version Consolidée au 1981-11-11
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -162,6 +162,47 @@ est mis fin plus tôt à ses fonctions. Cette période est renouvelable.
 
 
 #### CHAPITRE IV : Le conseil de l'ordre de la Légion d'honneur.
+
+###### Article R11
+
+Le conseil de l'ordre de la Légion d'honneur comprend :
+
+Le grand chancelier, président ;
+
+Quatorze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+
+Un membre titulaire du grade d'officier ;
+
+Un membre titulaire du grade de chevalier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+
+
+###### Article R12
+
+Les membres du conseil de l'ordre de la Légion d'honneur sont choisis par le grand maître, sur proposition du grand
+chancelier.
+
+Ils sont nommés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+
 
 ###### Article R13
 
@@ -394,6 +435,32 @@ l'admission ou l'avancement dans la Légion d'honneur.
 	**Cité par**:
 
 	  - Code de la Légion d'honneur et de la médaille mili - art. R30 (V)
+
+
+###### Article R26
+
+Le Premier ministre est autorisé par délégation du grand maître à nommer ou à promouvoir dans l'ordre, dans un délai d'un
+mois, les personnes tuées ou blessées dans l'accomplissement de leur devoir et qui sont reconnues dignes de recevoir cette
+distinction.
+
+Les décorations ainsi attribuées sont régularisées dans le délai le plus bref par décret rendu en conformité avec les
+dispositions du présent code et mentionnant les circonstances qui ont entraîné la mesure d'exception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°76-123 1976-02-05 art. 1 JORF 7 février 1976
+	  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+
+	**Cité par**:
+
+	  - Décret du 7 juillet 2016 - art. (V)
+	  - Code des pensions militaires d'invalidité et de... - art. D355-26 (V)
 
 
 ###### Article R27
@@ -2440,6 +2507,29 @@ devant l'ennemi ou qui ont rendu des services exceptionnels à la défense natio
 	**Codifié par**:
 
 	  - Décret n°62-1472 1962-11-28
+
+
+##### SECTION II : Concession de la médaille militaire en cas de décès ou de blessures.
+
+###### Article R141
+
+Le ministre de la défense est autorisé par le grand maître à concéder soit directement, soit par voie de délégation, la
+médaille militaire, dans un délai d'un mois, à des militaires et assimilés non officiers, tués ou blessés dans
+l'accomplissement de leur devoir et qui sont reconnus dignes de recevoir cette distinction.
+
+Les décorations ainsi attribuées sont régularisées dans le délai le plus bref par décret rendu en conformité avec les
+dispositions du présent code et mentionnant les circonstances qui ont entraîné la mesure d'exception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°76-123 1976-02-05 art. 2 JORF 7 février 1976
+	  - Décret n°81-998 1981-11-09 art. 3 et art. 4 JORF 11 novembre 1981
 
 
 #### CHAPITRE II : Modalités de concession
