@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1962-12-07
+Version Consolidée au 1963-01-01
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -645,6 +645,29 @@ d'attribution.
 	**Cité par**:
 
 	  - Code de la Légion d'honneur et de la médaille mili - art. R41 (V)
+
+
+###### Article R41
+
+Les personnes susceptibles de bénéficier des dispositions des articles R. 39 et R. 40 qui ont déjà reçu une distinction dans
+l'ordre de la Légion d'honneur sans traitement postérieurement aux blessures de guerre ou aux infirmités considérées comme
+telles qui sont à l'origine de leur invalidité peuvent être admises au traitement correspondant avec l'attribution d'une
+citation avec palme. Dans cette hypothèse, la prise de rang est celle du décret ayant attribué la décoration sans traitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
+
+	**Cite**:
+
+	  - Code de la Légion d'honneur et de la médaille mili - art. R39 (V)
+	  - Code de la Légion d'honneur et de la médaille mili - art. R40 (V)
 
 
 ##### PARAGRAPHE 2 : Dispositions concernant les mutilés 100 p. 100.
@@ -1380,6 +1403,26 @@ La suspension de plein droit ou par décret suspend le droit au traitement à co
 	**Codifié par**:
 
 	  - Décret n°62-1472 1962-11-28
+
+	**Cité par**:
+
+	  - Code de la Légion d'honneur et de la médaille mili - art. R153 (V)
+
+
+###### Article R84
+
+La réintégration de l'ancien légionnaire dans la qualité de membre de l'ordre ou l'expiration du délai de suspension de ses
+droits entraîne le recouvrement de la jouissance du traitement à compter du 1er janvier suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
 
 	**Cité par**:
 
@@ -2472,6 +2515,27 @@ Les dispositions prévues à l'article R. 72 sont applicables à la médaille mi
 
 
 #### CHAPITRE II : Traitement
+
+##### SECTION I : Droit et admission au traitement.
+
+###### Article R150
+
+Toute concession de médaille militaire donne droit au traitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
+
+	**Cité par**:
+
+	  - Décret n°95-1254 du 30 novembre 1995 - art. 2 (V)
+
 
 ##### SECTION II : Caractères du traitement.
 
