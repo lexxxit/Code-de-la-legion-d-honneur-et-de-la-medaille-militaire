@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1996-08-10
+Version Consolidée au 2000-11-11
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -2184,13 +2184,13 @@ justiciable de la Cour des comptes.
 ###### Article R121
 
 Les maisons d'éducation de la Légion d'honneur de Saint-Denis et des Loges, placées sous l'autorité du grand chancelier, sont
-instituées pour assurer l'éducation de jeunes filles de nationalité française : filles ou éventuellement petites-filles de
-légionnaires français.
+instituées pour assurer l'éducation des filles, petites-filles et arrière-petites-filles de membres de l'ordre de la Légion
+d'honneur.
 
-S'il existe des places disponibles, peuvent être accueillies, à titre exceptionnel, dans les maisons d'éducation de la Légion
-d'honneur les filles de nationalité française des membres français de l'ordre national du Mérite dont la situation familiale
-le justifie ainsi que les filles et petites-filles de légionnaires étrangers. Ces admissions sont décidées par le grand
-chancelier après avis du conseil de l'ordre et, pour les légionnaires étrangers, après consultation du grand maître.
+Peuvent être accueillies, dans les maisons d'éducation de la Légion d'honneur, les filles, petites-filles et arrière-petites-
+filles des membres de l'ordre national du Mérite ainsi que les filles et petites-filles de légionnaires étrangers. Ces
+admissions sont décidées par le grand chancelier après avis du conseil de l'ordre et, pour les légionnaires étrangers, après
+consultation du grand maître.
 
 **Liens relatifs à cet article**
 
@@ -2200,7 +2200,7 @@ chancelier après avis du conseil de l'ordre et, pour les légionnaires étrange
 
 	**Modifié par**:
 
-	  - Décret n°87-553 1987-07-17 art. 1 JORF 19  juillet 1987
+	  - Décret n°2000-1092 du 9 novembre 2000 - art. 1 () JORF 11 novembre 2000
 
 
 ###### Article R122
@@ -2293,6 +2293,88 @@ ministère de l'éducation nationale, sur la demande du grand chancelier.
 	**Codifié par**:
 
 	  - Décret n°62-1472 1962-11-28
+
+
+### TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie.
+
+###### Article R127-1
+
+Le musée national de la Légion d'honneur et des ordres de chevalerie, placé sous l'autorité du grand chancelier, contribue à
+la connaissance de l'histoire de l'ordre de la Légion d'honneur et des ordres et décorations français et étrangers.
+
+Il assure la conservation, la présentation et la mise en valeur des collections dont l'ordre est le propriétaire ou le
+dépositaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Créé par**:
+
+	  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+
+###### Article R127-2
+
+Le grand chancelier fixe, sur le rapport du secrétaire général de la grande chancellerie, et après avis du conservateur :
+
+- le règlement intérieur du musée ;
+
+- les conditions d'accès à celui-ci ;
+
+- la composition, le fonctionnement et le rôle du conseil historique et artistique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Créé par**:
+
+	  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 24 janvier 2002 - art. 3 (V)
+
+
+###### Article R127-3
+
+Le secrétaire général de la grande chancellerie assure le contrôle du fonctionnement du musée et la gestion de ses
+personnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Créé par**:
+
+	  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+
+###### Article R127-4
+
+Le conservateur du musée est nommé par arrêté du grand chancelier pris sur la proposition du secrétaire général de la grande
+chancellerie, après avis du ministre chargé de la culture.
+
+Il est notamment chargé de l'inventaire, de la conservation, de la restauration, de la présentation au public et de la mise
+en valeur des collections. Il relève de l'autorité du secrétaire général de la grande chancellerie, et directement de celle
+du grand chancelier pour les matières que ce dernier s'est réservées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Créé par**:
+
+	  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
 
 
 ### TITRE VIII : Attribution de la Légion d'honneur aux étrangers
