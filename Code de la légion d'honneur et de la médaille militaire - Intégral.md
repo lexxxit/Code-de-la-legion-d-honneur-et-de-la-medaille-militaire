@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1970-02-18
+Version Consolidée au 1970-07-08
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -356,6 +356,26 @@ Les contrôleurs financiers ne peuvent être décorés sur le contingent des min
 	**Codifié par**:
 
 	  - Décret n°62-1472 1962-11-28
+
+
+###### Article R24
+
+Pour un étranger admis à la nationalité française qui a sollicité sa naturalisation alors qu'il n'était plus assujetti aux
+obligations du service militaire actif, le décompte des années de services exigées pour son admission ou son avancement dans
+la Légion d'honneur a comme point de départ la date de sa naturalisation.
+
+Il peut être néanmoins dérogé aux dispositions ci-dessus par décision du grand maître, après avis du conseil de l'ordre, en
+faveur des Français visés à l'alinéa précédent qui se sont signalés par des mérites particulièrement éminents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°70-580 1970-07-06 art. 1 JORF 8 juillet 1970
 
 
 ##### SECTION II : Propositions à titre exceptionnel.
@@ -2195,6 +2215,29 @@ l'ordre.
 	**Cite**:
 
 	  - Code de la Légion d'honneur et de la médaille mili - art. R48 (V)
+
+
+###### Article R129
+
+Les étrangers bénéficiaires des dispositions de l'article précédent et résidant habituellement en France ou y exerçant une
+activité professionnelle sont soumis aux conditions imposées aux Français par les articles R. 17 à R. 20.
+
+Toutefois, les étrangers qui se sont signalés par des mérites particulièrement éminents peuvent être dispensés desdites
+conditions par décision du grand maître, après avis du conseil de l'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°70-580 1970-07-06 art. 2 JORF 8 juillet 1970
+
+	**Cite**:
+
+	  - Code de la Légion d'honneur et de la médaille militaire R17 à R20
 
 
 ###### Article R130
