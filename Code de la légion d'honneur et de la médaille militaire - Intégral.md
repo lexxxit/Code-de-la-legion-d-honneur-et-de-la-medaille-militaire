@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1995-12-02
+Version Consolidée au 1996-08-10
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -287,8 +287,8 @@ Nul ne peut accéder à la Légion d'honneur dans un grade supérieur à celui d
 
 ###### Article R18
 
-Pour être admis au grade de chevalier, il faut justifier de services publics d'une durée minimum de vingt années ou
-d'activités professionnelles d'une durée minimum de vingt-cinq années, assortis dans l'un et l'autre cas de mérites éminents.
+Pour être admis au grade de chevalier, il faut justifier de services publics ou d'activités professionnelles d'une durée
+minimum de vingt années, assortis dans l'un et l'autre cas de mérites éminents.
 
 **Liens relatifs à cet article**
 
@@ -300,6 +300,10 @@ d'activités professionnelles d'une durée minimum de vingt-cinq années, assort
 
 	  - Décret n°64-317 du 9 avril 1964 - art. 1 (V)
 	  - Code de la Légion d'honneur et de la médaille mili - art. R20 (V)
+
+	**Modifié par**:
+
+	  - Décret n°96-697 du 7 août 1996 - art. 1 () JORF 10 août 1996
 
 
 ###### Article R19
@@ -2119,10 +2123,11 @@ arrêtés et décisions, à l'exception des déclarations formulées au nom du c
 
 Il assure le secrétariat général du conseil de l'ordre et la direction des services de l'administration.
 
-Le grand chancelier peut, par arrêté, déléguer sa signature à des fonctionnaires de la grande chancellerie nommément
-désignés, à l'effet de signer, en son nom et en cas d'absence ou d'empêchement du secrétaire général, les mandats de
-paiement, les titres de perception et toutes pièces comptables concernant l'ordonnancement des dépenses de l'administration
-centrale de la grande chancellerie et des maisons d'éducation de la Légion d'honneur.
+Le grand chancelier peut, par arrêté, déléguer sa signature à des chefs de service et des fonctionnaires de catégorie A de la
+grande chancellerie nommément désignés, à l'effet de signer, en son nom et en cas d'absence ou d'empêchement du secrétaire
+général, les actes et décisions relatifs à l'engagement, à la liquidation et à l'ordonnancement des dépenses, les titres de
+perception ainsi que tous actes liés à l'exécution du budget et autres pièces comptables concernant l'administration centrale
+de la grande chancellerie de la Légion d'honneur et des maisons d'éducation.
 
 **Liens relatifs à cet article**
 
@@ -2132,7 +2137,7 @@ centrale de la grande chancellerie et des maisons d'éducation de la Légion d'h
 
 	**Modifié par**:
 
-	  - Décret n°70-130 1970-02-16 art. 1 JORF 18 février 1970
+	  - Décret n°96-697 du 7 août 1996 - art. 2 () JORF 10 août 1996
 
 
 #### CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.
