@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1981-12-17
+Version Consolidée au 1982-07-18
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -1431,6 +1431,34 @@ Légion d'honneur pour les mêmes faits, peuvent opter pour le traitement le plu
 
 ##### SECTION II : Caractères du traitement.
 
+###### Article R80
+
+Les titulaires du traitement de la Légion d'honneur peuvent en faire abandon, à titre définitif ou à titre temporaire, au
+profit de la Société d'entraide des membres de la Légion d'honneur, qui est autorisée àl'accepter.
+
+Ainsi qu'il est dit à l'article L. 527 du code des pensions militaires d'invalidité et des victimes de la guerre, les
+titulaires du traitement de la Légion d'honneur peuvent en faire abandon à titre définitif ou à titre temporaire au profit de
+l'Office national des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°82-611 1982-07-12 art. 1 JORF 18 juillet 1982
+
+	**Cité par**:
+
+	  - Code de la Légion d'honneur et de la médaille m... - art. R151 (V)
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des v - art. L527 (V)
+
+
 ###### Article R81
 
 Ainsi qu'il est dit à l'article unique de la loi du 27 février 1951, le traitement afférent à la Légion d'honneur est
@@ -2697,6 +2725,30 @@ Toute concession de médaille militaire donne droit au traitement.
 
 
 ##### SECTION II : Caractères du traitement.
+
+###### Article R151
+
+Les dispositions prévues aux articles R. 80, R. 81 et R. 82 sont applicables à la médaille militaire.
+
+Pour l'application du premier alinéa de l'article R. 80, l'institution au profit de laquelle les traitements attachés à la
+médaille militaire peuvent être abandonnés est la société nationale Les Médaillés militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-1472 1962-11-28
+
+	**Modifié par**:
+
+	  - Décret n°82-611 1982-07-12 art. 2 JORF 18 juillet 1982
+
+	**Cite**:
+
+	  - Code de la Légion d'honneur et de la médaille mili - art. R80 (V)
+	  - Code de la Légion d'honneur et de la médaille mili - art. R81 (V)
+	  - Code de la Légion d'honneur et de la médaille mili - art. R82 (V)
+
 
 ###### Article R152
 
