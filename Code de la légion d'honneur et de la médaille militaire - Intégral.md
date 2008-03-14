@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2005-11-16
+Version Consolidée au 2008-03-15
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -173,23 +173,19 @@ est mis fin plus tôt à ses fonctions. Cette période est renouvelable.
 
 Le conseil de l'ordre de la Légion d'honneur comprend :
 
-Le grand chancelier, président ;
+- le grand chancelier, président ;
 
-Quatorze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+- quinze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
 
-Un membre titulaire du grade d'officier ;
+- un membre choisi parmi les officiers ;
 
-Un membre titulaire du grade de chevalier.
+- un membre choisi parmi les chevaliers.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°62-1472 1962-11-28
-
 	**Modifié par**:
 
-	  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+	  - Décret n°2008-249 du 13 mars 2008 - art. 1
 
 
 ###### Article R12
@@ -212,13 +208,14 @@ Ils sont nommés par décret.
 
 ###### Article R13
 
-Le conseil est renouvelé par moitié tous les deux ans ; les membres sortants peuvent être nommés à nouveau.
+Le conseil est renouvelé tous les deux ans, à raison alternativement de huit et neuf membres ; les membres sortants peuvent
+être nommés à nouveau.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°2008-249 du 13 mars 2008 - art. 2
 
 
 #### CHAPITRE V : Admission et avancement dans l'ordre.
