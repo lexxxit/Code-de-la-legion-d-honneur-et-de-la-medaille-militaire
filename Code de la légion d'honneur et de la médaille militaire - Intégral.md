@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2008-03-15
+Version Consolidée au 2008-11-23
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -272,11 +272,20 @@ Nul ne peut être reçu dans la Légion d'honneur s'il n'est Français.
 
 Nul ne peut accéder à la Légion d'honneur dans un grade supérieur à celui de chevalier.
 
+Toutefois des nominations directes aux grades d'officier et de commandeur ainsi qu'à la dignité de grand officier peuvent
+intervenir, dans les conditions fixées à l'article R. 32-1, afin de récompenser des carrières hors du commun, tant par leur
+durée que par l'éminence des services rendus. Ces nominations interviennent dans la limite de 2 % de chaque contingent annuel
+correspondant en ce qui concerne les grades d'officier et de commandeur et dans la limite d'une nomination par an en ce qui
+concerne la dignité de grand officier. 
+
+La dignité de grand officier appartient de plein droit aux anciens Premiers ministres qui ont exercé leurs fonctions durant
+deux années au moins.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°2008-1202 du 21 novembre 2008 - art. 2
 
 	**Cité par**:
 
@@ -311,21 +320,18 @@ minimum de vingt années, assortis dans l'un et l'autre cas de mérites éminent
 
 ###### Article R19
 
-Ne peuvent être promus aux grades d'officier ou de commandeur de la Légion d'honneur que les chevaliers et les officiers
-comptant au minimum respectivement huit et cinq ans dans leur grade et justifiant de titres de la qualité requise acquis
-postérieurement à l'accession audit grade.
+Sans préjudice de l'application du deuxième alinéa de l'article R. 17, ne peuvent être promus aux grades d'officier ou de
+commandeur de la Légion d'honneur que les chevaliers et les officiers comptant au minimum respectivement huit et cinq ans
+dans leur grade et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade.
 
-Ne peuvent être élevés à la dignité de grand officier ou de grand'croix que les commandeurs et les grands officiers comptant
-au minimum respectivement trois ans dans leur grade ou dignité et justifiant de titres de la qualité requise acquis
-postérieurement à l'accession audit grade ou à la première dignité.
+A l'exception du cas prévu au troisième alinéa de l'article R. 17, ne peuvent être élevés à la dignité de grand officier ou
+de grand'croix que les commandeurs et les grands officiers comptant au minimum respectivement trois ans dans leur grade ou
+dignité et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade ou à la première
+dignité. 
 
 Un avancement dans la Légion d'honneur doit récompenser des mérites nouveaux et non des mérites déjà récompensés.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-1472 1962-11-28
 
 	**Cité par**:
 
@@ -333,6 +339,14 @@ Un avancement dans la Légion d'honneur doit récompenser des mérites nouveaux 
 	  - Code de la Légion d'honneur et de la médaille m... - art. R43 (V)
 	  - Code de la Légion d'honneur et de la médaille mili - art. R20 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R351-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1202 du 21 novembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la Légion d'honneur et de la médaille militaire - art. R17
 
 
 ###### Article R20
@@ -616,14 +630,14 @@ de la date de la réception dans la dignité ou le grade précédent.
 
 ###### Article R34
 
-Lorsqu'ils concernent des nominations et promotions à titre exceptionnel, des promotions au grade de commandeur et aux
-dignités de grand officier et de grand'croix, ces décrets sont pris en conseil des ministres.
+Lorsqu'ils concernent les nominations directes, les nominations et promotions à titre exceptionnel, les promotions au grade
+de commandeur et aux dignités de grand officier et de grand'croix, ces décrets sont pris en conseil des ministres.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°2008-1202 du 21 novembre 2008 - art. 5
 
 
 ##### SECTION III : Exécution des décrets.
