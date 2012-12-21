@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2010-05-29
+Version Consolidée au 2012-12-22
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -462,9 +462,9 @@ l'admission ou l'avancement dans la Légion d'honneur.
 
 ###### Article R26
 
-Le Premier ministre est autorisé par délégation du grand maître à nommer ou à promouvoir dans l'ordre, dans un délai d'un
-mois, les personnes tuées ou blessées dans l'accomplissement de leur devoir et qui sont reconnues dignes de recevoir cette
-distinction.
+Le Premier ministre est autorisé par délégation du grand maître à nommer ou à promouvoir dans l'ordre, dans un délai d'un an,
+les personnes tuées ou blessées dans l'accomplissement de leur devoir et qui sont reconnues dignes de recevoir cette
+distinction. 
 
 Les décorations ainsi attribuées sont régularisées dans le délai le plus bref par décret rendu en conformité avec les
 dispositions du présent code et mentionnant les circonstances qui ont entraîné la mesure d'exception.
@@ -473,12 +473,11 @@ dispositions du présent code et mentionnant les circonstances qui ont entraîn�
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
 
 	**Modifié par**:
 
-	  - Décret n°76-123 1976-02-05 art. 1 JORF 7 février 1976
-	  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+	  - Décret n°2012-1423 du 19 décembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -2649,8 +2648,8 @@ devant l'ennemi ou qui ont rendu des services exceptionnels à la défense natio
 ###### Article R141
 
 Le ministre de la défense est autorisé par le grand maître à concéder soit directement, soit par voie de délégation, la
-médaille militaire, dans un délai d'un mois, à des militaires et assimilés non officiers, tués ou blessés dans
-l'accomplissement de leur devoir et qui sont reconnus dignes de recevoir cette distinction.
+médaille militaire, dans un délai d'un an, à des militaires et assimilés non officiers, tués ou blessés dans
+l'accomplissement de leur devoir et qui sont reconnus dignes de recevoir cette distinction. 
 
 Les décorations ainsi attribuées sont régularisées dans le délai le plus bref par décret rendu en conformité avec les
 dispositions du présent code et mentionnant les circonstances qui ont entraîné la mesure d'exception.
@@ -2659,12 +2658,11 @@ dispositions du présent code et mentionnant les circonstances qui ont entraîn�
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
 
 	**Modifié par**:
 
-	  - Décret n°76-123 1976-02-05 art. 2 JORF 7 février 1976
-	  - Décret n°81-998 1981-11-09 art. 3 et art. 4 JORF 11 novembre 1981
+	  - Décret n°2012-1423 du 19 décembre 2012 - art. 1
 
 
 #### CHAPITRE II : Modalités de concession
