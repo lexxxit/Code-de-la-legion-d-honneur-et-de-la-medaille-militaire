@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2015-03-13
+Version Consolidée au 2017-01-01
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -783,8 +783,7 @@ citation avec palme. Dans cette hypothèse, la prise de rang est celle du décre
 
 ###### Article R42
 
-Ainsi qu'il est dit à l'article L. 344 du code des pensions militaires d'invalidité et des victimes de la guerre, les
-militaires et assimilés qui obtiennent soit la médaille militaire, soit un grade dans l'ordre de la Légion d'honneur, en
+Les militaires et assimilés qui obtiennent soit la médaille militaire, soit un grade dans l'ordre de la Légion d'honneur, en
 raison de blessures de guerre entraînant une invalidité définitive de 100  % (cent pour cent) sont nommés chevaliers de la
 Légion d'honneur s'ils sont médaillés ou promus au grade supérieur dans l'ordre de la Légion d'honneur s'ils sont
 légionnaires. Ces décorations sont accordées au titre militaire avec traitement.
@@ -793,43 +792,58 @@ légionnaires. Ces décorations sont accordées au titre militaire avec traiteme
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
+
+	**Modifié par**:
+
+	  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
 
 	**Cité par**:
 
 	  - Code des pensions militaires d'invalidité et de... - art. R351-1 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R351-2 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code des pensions militaires d'invalidité et des victimes de guerre. - art. L344
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L344
+
 
 ###### Article R43
 
-Ainsi qu'il est dit à l'article L. 345 du code des pensions militaires d'invalidité et des victimes de la guerre, les
-militaires et assimilés titulaires d'une pension d'invalidité définitive de 100  % (cent pour cent) avec bénéfice des
-articles L. 16 ou L. 18 du code des pensions militaires d'invalidité et des victimes de la guerre, en raison de blessures de
-guerre, qui ont obtenu une distinction dans la Légion d'honneur en application des dispositions de l'article L. 344 du code
-des pensions militaires d'invalidité et des victimes de la guerre, ou des lois du 26 décembre 1923 et du 23 mars 1928
-peuvent, sur leur demande, et à condition d'avoir l'ancienneté de grade exigée par l'article R. 19 du présent code, être
-promus à un nouveau grade dans l'ordre, sans traitement, sous réserve que leur candidature fasse l'objet d'un examen
-particulier, tenant compte des conditions dans lesquelles ils ont été blessés et des mutilations subies à la suite de ces
-blessures. 
+Les militaires et assimilés titulaires d'une pension d'invalidité définitive de 100  % (cent pour cent) avec bénéfice des
+articles L. 125-10 ou L. 133-1 du code des pensions militaires et des victimes de guerre, en raison de blessures de guerre,
+qui ont obtenu une distinction dans la Légion d'honneur en application des dispositions de l'article R. 42 du présent code,
+ou des lois du 26 décembre 1923 et du 23 mars 1928 peuvent, sur leur demande, et à condition d'avoir l'ancienneté de grade
+exigée par l'article R. 19 du présent code, être promus à un nouveau grade dans l'ordre, sans traitement, sous réserve que
+leur candidature fasse l'objet d'un examen particulier, tenant compte des conditions dans lesquelles ils ont été blessés et
+des mutilations subies à la suite de ces blessures. 
 
 En aucun cas, les militaires et assimilés qui ont bénéficié ou bénéficient des dispositions des lois du 30 mai 1923 modifiée
-par celle du 30 mars 1928, du 26 décembre 1923, du 23 mars 1928 ou de l'article L. 344 du code des pensions militaires
-d'invalidité et des victimes de la guerre ne peuvent, par application conjuguée de ces textes, obtenir plus de trois
-récompenses (médaille militaire ou distinction dans la Légion d'honneur).
+par celle du 30 mars 1928, du 26 décembre 1923, du 23 mars 1928 ou de l'article R. 42 du présent code ne peuvent, par
+application conjuguée de ces textes, obtenir plus de trois récompenses (médaille militaire ou distinction dans la Légion
+d'honneur).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
+
+	**Modifié par**:
+
+	  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la Légion d'honneur et de la médaille mili - art. R19 (V)
-	  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. L344 (V)
+	  - Code de la Légion d'honneur et de la médaille militaire - art. R19
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L344
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L345
 	  - Loi n°1923-05-30
 	  - Loi n°1923-12-26
 	  - Loi n°1928-03-23
@@ -839,20 +853,28 @@ récompenses (médaille militaire ou distinction dans la Légion d'honneur).
 
 	  - Code des pensions militaires d'invalidité et de... - art. R351-2 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code des pensions militaires d'invalidité et des victimes de guerre. - art. L345
+
 
 ###### Article R44
 
-Les grands mutilés titulaires pour blessures qualifiées blessures de guerre d'une invalidité définitive de 100  % (cent pour
-cent) bénéficiant des dispositions des articles L. 16 et L. 18 du code des pensions militaires d'invalidité et des victimes
-de la guerre, qui obtiennent, par suite de l'aggravation de leurs blessures, le droit à l'assistance de plus d'une tierce
-personne, peuvent, sur leur demande, être promus exceptionnellement au grade supérieur à celui qu'ils détiennent dans la
-Légion d'honneur.
+Les grands mutilés pensionnés à titre définitif pour blessures de guerre pour un taux d'invalidité de 100 % et bénéficiant
+des dispositions des articles L. 125-10 et L. 133-1 du code des pensions militaires d'invalidité et des victimes de guerre,
+qui obtiennent, par suite de l'aggravation de leurs blessures, le droit à la majoration mentionnée au deuxième alinéa de
+l'article L. 133-1 du même code, peuvent, sur leur demande, être promus exceptionnellement au grade supérieur à celui qu'ils
+détiennent dans la Légion d'honneur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
+
+	**Modifié par**:
+
+	  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
 
 	**Cité par**:
 
@@ -860,15 +882,14 @@ Légion d'honneur.
 
 	**Cite**:
 
-	  - Code des pensions militaires d'invalidité et des v - art. L16 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. L18 (M)
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L16
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L18
 
 
 ###### Article R45
 
-Ainsi qu'il est dit à l'article L. 346 du code des pensions militaires d'invalidité et des victimes de la guerre, la croix de
-chevalier de la Légion d'honneur, sans traitement, est attribuée aux pensionnés à 100  % (cent pour cent) d'invalidité pour
-infirmités multiples remplissant la double condition ci-après : 
+La croix de chevalier de la Légion d'honneur, sans traitement, est attribuée aux pensionnés à 100  % (cent pour cent)
+d'invalidité pour infirmités multiples remplissant la double condition ci-après : 
 
 a) Invalidité principale d'au moins 80  % (quatre-vingts pour cent) consécutive à une blessure de guerre ; 
 
@@ -878,19 +899,30 @@ b) Etre titulaire de la médaille militaire pour fait de guerre.
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
+
+	**Modifié par**:
+
+	  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
 
 	**Cité par**:
 
 	  - Code des pensions militaires d'invalidité et de... - art. R351-4 (V)
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L346
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code des pensions militaires d'invalidité et des victimes de guerre. - art. L346
 
 
 ##### PARAGRAPHE 3 : Dispositions communes.
 
 ###### Article R46
 
-Ainsi qu'il est dit à l'article L. 178 du code des pensions militaires d'invalidité et des victimes de la guerre, les
-maladies contractées, ou présumées telles, par les déportés résistants au cours de leur déportation sont assimilées aux
+Les maladies contractées, ou présumées telles, par les déportés résistants au cours de leur déportation sont assimilées aux
 blessures.
 
 En cas d'infirmités multiples résultant soit de blessures, soit de maladie, soit de blessures associées à des maladies
@@ -901,7 +933,11 @@ bénéfice des articles R. 39 à R. 45.
 
 	**Codifié par**:
 
-	  - Décret n°62-1472 1962-11-28
+	  - Décret n°62-1472 du 28 novembre 1962
+
+	**Modifié par**:
+
+	  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
 
 	**Cité par**:
 
@@ -910,7 +946,27 @@ bénéfice des articles R. 39 à R. 45.
 
 	**Cite**:
 
-	  - Code de la Légion d'honneur et de la médaille militaire R39 à R45
+	  - Code de la Légion d'honneur et de la médaille militaire
+
+
+###### Article R46-1
+
+Les maladies contractées ou présumées telles par les prisonniers du Viet-Minh au cours de leur captivité sont assimilées aux
+blessures.
+
+En cas d'infirmités multiples résultant, soit de blessures, soit de maladies, soit de blessures associées à des maladies
+contractées ou aggravées en captivité, l'ensemble des infirmités est considéré comme une seule blessure et ouvre droit au
+bénéfice des articles R. 39 à R. 45 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1903 du 28 décembre 2016 - art. 7
+
+	**Cité par**:
+
+	  - Code des pensions militaires d'invalidité et de... - art. R351-8 (V)
 
 
 ###### Article R47
